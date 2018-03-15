@@ -1,2 +1,1 @@
-# Answers for Codingbat
-Answers for Codingbat.com
+# Answers for Codingbat.com
