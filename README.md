@@ -1,1 +1,1 @@
-# Answers for Codingbat.com
+# Answers for Codingbat.com's python skill questions.
